@@ -1,0 +1,11 @@
+1. Static visualizations are simple and fast to make, but they are “one view” of the data. 
+You can look at the chart, but you cannot interact with it. 
+Interactive visualizations let you hover, zoom, and filter, so you can explore details without creating many new charts. 
+So it is easier to notice patterns and outliers.
+2. Dashboard is useful because they put multiple views and controls in one place. 
+Instead of running new code each time, the user can change a dropdown or filter and immediately see updated results. 
+It helps with real-time exploration.
+
+3. Tools like Plotly and Dash improve data communication at work because they make charts more engaging and easier to understand. 
+People can interact with the data during meetings, answer questions quickly, and explore different scenarios based on graph. 
+This saves time, visualize findings, helps teams to be more efficient and make better decisions based on the same shared view.
