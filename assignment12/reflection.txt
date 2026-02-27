@@ -8,4 +8,4 @@ It helps with real-time exploration.
 
 3. Tools like Plotly and Dash improve data communication at work because they make charts more engaging and easier to understand. 
 People can interact with the data during meetings, answer questions quickly, and explore different scenarios based on graph. 
-This saves time, visualize findings, helps teams to be more efficient and make better decisions based on the same shared view.
+This saves time, visualize findings, helps teams to be more efficient and make better decisions based on the same shared view. 
